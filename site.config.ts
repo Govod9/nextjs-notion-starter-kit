@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Liu's Blog',
-  domain: 'https://www.notion.so/wxliu/c97ae88470d2469c85e3f17b28ae4f32?v=79f7eeb82c9444ec8f7810dd8f70c724&pvs=4',
+  domain: 'https://www.notion.so/wxliu/c97ae88470d2469c85e3f17b28ae4f32?v=79f7eeb82c9444ec8f7810dd8f70c724',
   author: 'Wangxin Liu',
 
   // open graph metadata (optional)
